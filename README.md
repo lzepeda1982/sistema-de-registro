@@ -1,3 +1,3 @@
 <h1> Sistema de Registro</h1>
 
-- Estado del proyecto: finalizado.
+- Estado del proyecto: finalizado!

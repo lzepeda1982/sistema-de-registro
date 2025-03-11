@@ -8,3 +8,4 @@ Ganas cuando encuentras el numero secreto y puedes volver a jugar presionando el
 
 El juego termina cuando se hayan sorteado todos los numeros del juego.
 
+Sistema de registro 2
